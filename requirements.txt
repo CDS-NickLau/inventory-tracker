@@ -5,3 +5,4 @@ scikit-learn
 textract
 PyPDF2
 sqlalchemy
+python-docx
